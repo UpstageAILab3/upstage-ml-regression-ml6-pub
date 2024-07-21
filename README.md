@@ -32,13 +32,13 @@
 
 ### Directory
 
-- project_root/
-├── notebooks/
-│   └── 결과물 정리.ipynb
-├── docs/
-    └── README.md
-    └── 팀원별 회고.ipynb
-    └── 발표자료.pdf
+- project_root/<br/>
+├── notebooks/<br/>
+│   └── 결과물 정리.ipynb<br/>
+├── docs/<br/>
+    └── README.md<br/>
+    └── 팀원별 회고.ipynb<br/>
+    └── 발표자료.pdf<br/>
 
     
 
