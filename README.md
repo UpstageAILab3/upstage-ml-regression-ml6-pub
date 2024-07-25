@@ -3,7 +3,7 @@
 
 ## Team
 
-| ![민경도](![image](https://github.com/user-attachments/assets/3a515fef-99f7-4ae4-b493-768a2a5a1668)
+| !(![image](https://github.com/user-attachments/assets/3a515fef-99f7-4ae4-b493-768a2a5a1668)
 ) | ![조진우](![image](https://github.com/user-attachments/assets/5ea956db-a32c-4117-82af-bfcd18052c3a)
 ) | ![이승민](![image](https://github.com/user-attachments/assets/879bedb5-4014-4447-96d0-8bff9c634f1f)
 ) | ![유정수](![image](https://github.com/user-attachments/assets/0ae992c4-fd21-4296-affa-918f78f80e5f)
